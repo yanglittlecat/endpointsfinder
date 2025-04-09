@@ -55,7 +55,7 @@
 
 ## 👨‍💻 作者信息
 
-- 👤 作者：yanglittlecat
+- 👤 作者：yanglittlecat、feverwizard
 - 📫 GitHub: [@yanglittlecat](https://github.com/yanglittlecat)
 
 ---
